@@ -6,9 +6,9 @@
     <title>Bem-vindo</title>
     <style>
         :root {
-            --purple-dark: #6a0dad;
-            --purple-medium: #8a2be2;
-            --purple-light: #9370db;
+            --purple-dark: #0D47A1;
+            --purple-medium: #42A5F5;
+            --purple-light: #90CAF9;
         }
         
         body {
@@ -128,11 +128,11 @@
         }
         
         .btn-login {
-            background: linear-gradient(135deg, #9c27b0, #e91e63);
+            background: linear-gradient(135deg, #1976D2, #64B5F6);
         }
         
         .btn-register {
-            background: linear-gradient(135deg, #673ab7, #9c27b0);
+            background: linear-gradient(135deg, #1565C0, #1976D2);
         }
         
         @media (max-width: 480px) {

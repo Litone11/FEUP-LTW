@@ -66,7 +66,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['csrf_token']) && $_PO
 
 .add-service h2 {
     text-align: center;
-    color: #6d28d9;
+    color: #1565C0;
     margin-bottom: 25px;
 }
 
@@ -90,7 +90,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['csrf_token']) && $_PO
 }
 
 .add-service button {
-    background: #7c3aed;
+    background: #1E88E5;
     color: white;
     padding: 12px;
     border: none;
@@ -101,7 +101,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['csrf_token']) && $_PO
 }
 
 .add-service button:hover {
-    background: #6d28d9;
+    background: #1565C0;
 }
 
 .error {
@@ -127,7 +127,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['csrf_token']) && $_PO
 
 .category-row a {
     padding: 10px;
-    background: #6d28d9;
+    background: #1565C0;
     color: white;
     text-decoration: none;
     border-radius: 6px;

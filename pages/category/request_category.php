@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['category_name'])) {
     <title>Pedir Nova Categoria | Freelance Platform</title>
     <style>
         :root {
-            --primary-color: #6a11cb;
+            --primary-color: #1E88E5;
             --secondary-color: #2575fc;
             --text-color: #333;
             --light-gray: #f5f5f5;

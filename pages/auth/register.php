@@ -77,9 +77,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link rel="stylesheet" href="../../assets/css/style.css">
     <style>
       :root {
-        --primary-color: #6a11cb;
-        --primary-gradient: linear-gradient(135deg, #6a11cb 0%, rgb(36, 0, 99) 100%);
-        --primary-gradient-hover: linear-gradient(135deg, rgb(57, 19, 101) 0%, rgb(111, 0, 255) 100%);
+        --primary-color: #1E88E5;
+        --primary-gradient: linear-gradient(135deg, #1E88E5 0%, rgb(0, 50, 155) 100%);
+        --primary-gradient-hover: linear-gradient(135deg, rgb(0, 70, 180) 0%, rgb(0, 110, 255) 100%);
       }
 
       body {
