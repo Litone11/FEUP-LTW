@@ -31,7 +31,7 @@ include('../../includes/header.php');
 
 .admin-panel h2 {
     text-align: center;
-    color: #6d28d9;
+    color: #1565C0;
     margin-bottom: 30px;
 }
 
@@ -42,7 +42,7 @@ include('../../includes/header.php');
 }
 
 .section h3 {
-    color: #6d28d9;
+    color: #1565C0;
     margin-bottom: 15px;
 }
 
@@ -62,7 +62,7 @@ include('../../includes/header.php');
 
 .stat-card h4 {
     margin: 0 0 5px;
-    color: #6d28d9;
+    color: #1565C0;
     font-size: 16px;
 }
 
@@ -91,7 +91,7 @@ include('../../includes/header.php');
 }
 
 .btn {
-    background: #7c3aed;
+    background: #1E88E5;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -101,7 +101,7 @@ include('../../includes/header.php');
 }
 
 .btn:hover {
-    background: #6d28d9;
+    background: #1565C0;
 }
 
 .btn-danger {

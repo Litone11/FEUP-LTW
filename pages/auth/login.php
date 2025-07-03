@@ -95,7 +95,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
       .login-page h2 {
         text-align: center;
-        color: #6a11cb;
+        color: #1E88E5;
         margin-bottom: 25px;
         font-size: 28px;
         font-weight: 600;
@@ -132,13 +132,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
       .login-page input:focus,
       .login-page select:focus {
-        border-color: #6a11cb;
+        border-color: #1E88E5;
         box-shadow: 0 0 0 3px rgba(106, 17, 203, 0.1);
         outline: none;
       }
 
       .login-page button[type="submit"] {
-        background: linear-gradient(135deg, #6a11cb 0%,rgb(36, 0, 99) 100%);
+        background: linear-gradient(135deg, #1E88E5 0%,rgb(0, 50, 155) 100%);
         color: white;
         padding: 14px;
         font-size: 16px;
@@ -151,7 +151,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       }
 
       .login-page button[type="submit"]:hover {
-        background: linear-gradient(135deg,rgb(57, 19, 101) 0%,rgb(111, 0, 255) 100%);
+        background: linear-gradient(135deg,rgb(0, 70, 180) 0%,rgb(0, 110, 255) 100%);
         transform: translateY(-1px);
         box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
       }
@@ -167,7 +167,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       }
 
       .login-page a {
-        color: #6a11cb;
+        color: #1E88E5;
         text-decoration: none;
         font-weight: 600;
       }

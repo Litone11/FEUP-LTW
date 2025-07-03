@@ -26,8 +26,8 @@ $user_id = $_SESSION['user_id'];
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         :root {
-            --primary-600: #7c3aed;
-            --primary-700: #6d28d9;
+            --primary-600: #1E88E5;
+            --primary-700: #1565C0;
             --primary-50: #f5f3ff;
             --gray-50: #f9fafb;
             --gray-100: #f3f4f6;

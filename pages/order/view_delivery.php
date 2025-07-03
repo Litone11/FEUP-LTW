@@ -28,7 +28,7 @@ $delivery = $stmt->fetch(PDO::FETCH_ASSOC);
     <title>Visualizar Entrega | Freelance Platform</title>
     <style>
         :root {
-            --primary-color: #6a11cb;
+            --primary-color: #1E88E5;
             --secondary-color: #2575fc;
             --text-color: #333;
             --light-gray: #f8f9fa;

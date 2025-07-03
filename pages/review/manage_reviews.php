@@ -45,7 +45,7 @@ $reviews->execute([$serviceId]);
     <title>Gestão de Comentários | Admin Panel</title>
     <style>
         :root {
-            --primary-color: #6a11cb;
+            --primary-color: #1E88E5;
             --secondary-color: #2575fc;
             --error-color: #d32f2f;
             --text-color: #333;

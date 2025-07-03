@@ -12,9 +12,9 @@ if (!isset($_SESSION['user_id'])) {
 
 <style>
 :root {
-  --primary: #7C3AED;
-  --primary-light: #8B5CF6;
-  --primary-dark: #6D28D9;
+  --primary: #1E88E5;
+  --primary-light: #64B5F6;
+  --primary-dark: #1565C0;
   --secondary: #10B981;
   --dark: #1F2937;
   --gray-dark: #374151;
